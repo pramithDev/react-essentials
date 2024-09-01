@@ -9,6 +9,7 @@ function App() {
     // selectedButton => 'Components', 'JSX', 'props', 'state'
     // console.log(selectedButton);
     tabContent = selectedButton;
+    console.log(tabContent);
   }
   return (
     <div>
